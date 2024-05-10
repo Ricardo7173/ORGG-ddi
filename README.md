@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.techupdates.net/wp-content/uploads/2021/02/Flutter.png" alt="banner flutter" width="330"/>
+    <img src="https://www.techupdates.net/wp-content/uploads/2021/02/Flutter.png" alt="banner flutter" width="750"/>
 </p>
 
 # Instalaciones en equipo
